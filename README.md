@@ -261,7 +261,7 @@ def send_alerts(recommendations):
 # GitHub Actions for automated deployment
 ```
 
----
+-------
 
 ## 🎯 Unique Differentiators
 
