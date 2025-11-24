@@ -66,7 +66,7 @@ The system will automatically:
 - ✅ Generate 9 visualizations
 - ✅ Display detailed report
 
----
+--------
 
 ## 📈 Sample Output
 
