@@ -49,13 +49,13 @@ An advanced DevOps tool that analyzes cloud infrastructure costs across AWS, Azu
 ### Step 1: Copy the code to Google Colab
 ```python
 # Paste the entire code into a Colab cell
-```
+``````
 
 ### Step 2: Execute
 ```python
 # Run with Shift + Enter
 main()
-```
+```````
 
 ### Step 3: View Results
 The system will automatically:
