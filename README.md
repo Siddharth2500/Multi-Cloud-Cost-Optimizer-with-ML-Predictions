@@ -29,7 +29,7 @@ An advanced DevOps tool that analyzes cloud infrastructure costs across AWS, Azu
 ### Complete Dashboard
 *Comprehensive 9-panel analytical dashboard*
 
----------------
+-----------------
 
 ## 🛠️ Technology Stack
 - **Python 3.8+**
