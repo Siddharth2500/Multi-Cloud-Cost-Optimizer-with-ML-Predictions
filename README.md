@@ -42,7 +42,7 @@ An advanced DevOps tool that analyzes cloud infrastructure costs across AWS, Azu
 ```python
 # All libraries are pre-installed in Google Colab
 # Just copy and run the code!
-```
+```````
 
 ## 🚀 How to Run
 
