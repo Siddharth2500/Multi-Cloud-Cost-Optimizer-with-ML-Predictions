@@ -152,7 +152,7 @@ GCP - Storage Optimization [Medium Priority]
 | 📉 Trend Analysis | Moving averages and trends |
 | 📊 Memory Distribution | Utilization frequency histogram |
 
----
+------
 
 ## 🔧 Key Components
 
